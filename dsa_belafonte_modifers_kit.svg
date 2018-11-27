@@ -1,0 +1,6404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1050"
+   height="623.55701"
+   viewBox="0 0 1050 623.55701"
+   version="1.1"
+   id="svg1286"
+   sodipodi:docname="dsa_belafonte_modifers_kit.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/steven/Documents/DSA Belafonte/dsa_belafonte_base_kit.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <metadata
+     id="metadata1290">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview1288"
+     showgrid="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="402.0958"
+     inkscape:cy="189.04543"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1286"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true">
+    <sodipodi:guide
+       position="504.12225,622.34678"
+       orientation="1,0"
+       id="guide1553"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="213.92742,125.53908"
+       orientation="0,1"
+       id="guide1682"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="194.38531,71.263106"
+       orientation="0,1"
+       id="guide1871"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="125.26286,179.67694"
+       orientation="0,1"
+       id="guide1647"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="style2">
+    .keycap .border { stroke: black; stroke-width: 2; }
+    .keycap .inner.border { stroke: rgba(0,0,0,.1); }
+    </style>
+  <defs
+     id="defs30">
+    <linearGradient
+       id="DCS">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop4" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop6" />
+      <stop
+         offset="60%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="SPACE"
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop13" />
+      <stop
+         offset="20%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop15" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop19" />
+    </linearGradient>
+    <radialGradient
+       id="DSA">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26" />
+    </radialGradient>
+    <radialGradient
+       id="SA"
+       xlink:href="#DSA" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2097"
+       cx="27"
+       cy="27"
+       fx="27"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2099"
+       cx="135"
+       cy="27"
+       fx="135"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2101"
+       cx="189"
+       cy="27"
+       fx="189"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2103"
+       cx="243"
+       cy="27"
+       fx="243"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2105"
+       cx="297"
+       cy="27"
+       fx="297"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2107"
+       cx="378"
+       cy="27"
+       fx="378"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2109"
+       cx="432"
+       cy="27"
+       fx="432"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2111"
+       cx="486"
+       cy="27"
+       fx="486"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2113"
+       cx="540"
+       cy="27"
+       fx="540"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2115"
+       cx="621"
+       cy="27"
+       fx="621"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2117"
+       cx="675"
+       cy="27"
+       fx="675"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2119"
+       cx="729"
+       cy="27"
+       fx="729"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2121"
+       cx="783"
+       cy="27"
+       fx="783"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2123"
+       cx="850.5"
+       cy="27"
+       fx="850.5"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2125"
+       cx="904.5"
+       cy="27"
+       fx="904.5"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2127"
+       cx="958.5"
+       cy="27"
+       fx="958.5"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2129"
+       cx="27"
+       cy="108"
+       fx="27"
+       fy="108"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2155"
+       gradientTransform="scale(1.532971,0.65232807)"
+       cx="493.16003"
+       cy="165.56087"
+       fx="493.16003"
+       fy="165.56087"
+       r="30.659418"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2157"
+       cx="850.5"
+       cy="108"
+       fx="850.5"
+       fy="108"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2159"
+       cx="904.5"
+       cy="108"
+       fx="904.5"
+       fy="108"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2161"
+       cx="958.5"
+       cy="108"
+       fx="958.5"
+       fy="108"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2171"
+       gradientTransform="scale(1.2942179,0.77266741)"
+       cx="31.29303"
+       cy="209.6633"
+       fx="31.29303"
+       fy="209.6633"
+       r="25.884357"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2197"
+       gradientTransform="scale(1.2942179,0.77266741)"
+       cx="594.56757"
+       cy="209.6633"
+       fx="594.56757"
+       fy="209.6633"
+       r="25.884357"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2199"
+       cx="850.5"
+       cy="162"
+       fx="850.5"
+       fy="162"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2201"
+       cx="904.5"
+       cy="162"
+       fx="904.5"
+       fy="162"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2203"
+       cx="958.5"
+       cy="162"
+       fx="958.5"
+       fy="162"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2213"
+       gradientTransform="scale(1.4186261,0.70490738)"
+       cx="33.306873"
+       cy="306.42325"
+       fx="33.306873"
+       fy="306.42325"
+       r="28.372522"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2237"
+       gradientTransform="scale(1.6393596,0.60999428)"
+       cx="457.03821"
+       cy="354.10168"
+       fx="457.03821"
+       fy="354.10168"
+       r="32.787193"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2245"
+       gradientTransform="scale(1.6393596,0.60999428)"
+       cx="37.057152"
+       cy="442.62711"
+       fx="37.057152"
+       fy="442.62711"
+       r="32.787193"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2267"
+       gradientTransform="scale(1.8337121,0.54534188)"
+       cx="401.23529"
+       cy="495.10226"
+       fx="401.23529"
+       fy="495.10226"
+       r="36.67424"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2269"
+       cx="904.5"
+       cy="270"
+       fx="904.5"
+       fy="270"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2279"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="29.182795"
+       cy="374.70709"
+       fx="29.182795"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2281"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="87.548386"
+       cy="374.70709"
+       fx="87.548386"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2283"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="145.91397"
+       cy="374.70709"
+       fx="145.91397"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2287"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="496.10751"
+       cy="374.70709"
+       fx="496.10751"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2289"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="554.47308"
+       cy="374.70709"
+       fx="554.47308"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2291"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="612.83868"
+       cy="374.70709"
+       fx="612.83868"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2293"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="671.20428"
+       cy="374.70709"
+       fx="671.20428"
+       fy="374.70709"
+       r="23.130068"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2295"
+       cx="850.5"
+       cy="324"
+       fx="850.5"
+       fy="324"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2297"
+       cx="904.5"
+       cy="324"
+       fx="904.5"
+       fy="324"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2299"
+       cx="958.5"
+       cy="324"
+       fx="958.5"
+       fy="324"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2534"
+       gradientUnits="userSpaceOnUse"
+       cx="958.5"
+       cy="324"
+       fx="958.5"
+       fy="324"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2536"
+       gradientUnits="userSpaceOnUse"
+       cx="904.5"
+       cy="324"
+       fx="904.5"
+       fy="324"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2538"
+       gradientUnits="userSpaceOnUse"
+       cx="850.5"
+       cy="324"
+       fx="850.5"
+       fy="324"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2540"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="671.20428"
+       cy="374.70709"
+       fx="671.20428"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2542"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="612.83868"
+       cy="374.70709"
+       fx="612.83868"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2544"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="554.47308"
+       cy="374.70709"
+       fx="554.47308"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2546"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="496.10751"
+       cy="374.70709"
+       fx="496.10751"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2550"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="145.91397"
+       cy="374.70709"
+       fx="145.91397"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2552"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="87.548386"
+       cy="374.70709"
+       fx="87.548386"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2554"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="29.182795"
+       cy="374.70709"
+       fx="29.182795"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2556"
+       gradientUnits="userSpaceOnUse"
+       cx="904.5"
+       cy="270"
+       fx="904.5"
+       fy="270"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2558"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.8337121,0.54534188)"
+       cx="401.23529"
+       cy="495.10226"
+       fx="401.23529"
+       fy="495.10226"
+       r="36.67424" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2580"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6393596,0.60999428)"
+       cx="37.057152"
+       cy="442.62711"
+       fx="37.057152"
+       fy="442.62711"
+       r="32.787193" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.6393596,0.60999428)"
+       cx="457.03821"
+       cy="354.10168"
+       fx="457.03821"
+       fy="354.10168"
+       r="32.787193" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2606"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.4186261,0.70490738)"
+       cx="33.306873"
+       cy="306.42325"
+       fx="33.306873"
+       fy="306.42325"
+       r="28.372522" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2608"
+       gradientUnits="userSpaceOnUse"
+       cx="958.5"
+       cy="162"
+       fx="958.5"
+       fy="162"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2610"
+       gradientUnits="userSpaceOnUse"
+       cx="904.5"
+       cy="162"
+       fx="904.5"
+       fy="162"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2612"
+       gradientUnits="userSpaceOnUse"
+       cx="850.5"
+       cy="162"
+       fx="850.5"
+       fy="162"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2614"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.2942179,0.77266741)"
+       cx="594.56757"
+       cy="209.6633"
+       fx="594.56757"
+       fy="209.6633"
+       r="25.884357" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2640"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.2942179,0.77266741)"
+       cx="31.29303"
+       cy="209.6633"
+       fx="31.29303"
+       fy="209.6633"
+       r="25.884357" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2642"
+       gradientUnits="userSpaceOnUse"
+       cx="958.5"
+       cy="108"
+       fx="958.5"
+       fy="108"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2644"
+       gradientUnits="userSpaceOnUse"
+       cx="904.5"
+       cy="108"
+       fx="904.5"
+       fy="108"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2646"
+       gradientUnits="userSpaceOnUse"
+       cx="850.5"
+       cy="108"
+       fx="850.5"
+       fy="108"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.532971,0.65232807)"
+       cx="493.16003"
+       cy="165.56087"
+       fx="493.16003"
+       fy="165.56087"
+       r="30.659418" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2674"
+       gradientUnits="userSpaceOnUse"
+       cx="27"
+       cy="108"
+       fx="27"
+       fy="108"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2676"
+       gradientUnits="userSpaceOnUse"
+       cx="958.5"
+       cy="27"
+       fx="958.5"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2678"
+       gradientUnits="userSpaceOnUse"
+       cx="904.5"
+       cy="27"
+       fx="904.5"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2680"
+       gradientUnits="userSpaceOnUse"
+       cx="850.5"
+       cy="27"
+       fx="850.5"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2682"
+       gradientUnits="userSpaceOnUse"
+       cx="783"
+       cy="27"
+       fx="783"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2684"
+       gradientUnits="userSpaceOnUse"
+       cx="729"
+       cy="27"
+       fx="729"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2686"
+       gradientUnits="userSpaceOnUse"
+       cx="675"
+       cy="27"
+       fx="675"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2688"
+       gradientUnits="userSpaceOnUse"
+       cx="621"
+       cy="27"
+       fx="621"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2690"
+       gradientUnits="userSpaceOnUse"
+       cx="540"
+       cy="27"
+       fx="540"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2692"
+       gradientUnits="userSpaceOnUse"
+       cx="486"
+       cy="27"
+       fx="486"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2694"
+       gradientUnits="userSpaceOnUse"
+       cx="432"
+       cy="27"
+       fx="432"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2696"
+       gradientUnits="userSpaceOnUse"
+       cx="378"
+       cy="27"
+       fx="378"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2698"
+       gradientUnits="userSpaceOnUse"
+       cx="297"
+       cy="27"
+       fx="297"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2700"
+       gradientUnits="userSpaceOnUse"
+       cx="243"
+       cy="27"
+       fx="243"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2702"
+       gradientUnits="userSpaceOnUse"
+       cx="189"
+       cy="27"
+       fx="189"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2704"
+       gradientUnits="userSpaceOnUse"
+       cx="135"
+       cy="27"
+       fx="135"
+       fy="27"
+       r="20" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA"
+       id="radialGradient2706"
+       gradientUnits="userSpaceOnUse"
+       cx="27"
+       cy="27"
+       fx="27"
+       fy="27"
+       r="20" />
+    <radialGradient
+       id="DSA-6">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-7" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-5" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-3" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-9">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-2" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-0" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-2" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-97">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-3" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-6" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-1" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-7">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-8" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-4" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-5" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient931">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop925" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop927" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop929" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient940">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop934" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop936" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop938" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-8">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-9" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-2" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-6" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient869">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop863" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop865" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop867" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient878">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop872" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop874" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop876" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-3">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-6" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-7" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-53" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient898">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop892" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop894" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop896" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient907">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop901" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop903" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop905" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient916">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop910" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop912" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop914" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient925">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop919" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop921" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop923" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient934">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop928" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop930" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop932" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient944">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop937" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop939" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop941" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-67"
+       id="radialGradient2552-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="87.548386"
+       cy="374.70709"
+       fx="87.548386"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       id="DSA-67">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-5" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-3" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-56" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-67-0"
+       id="radialGradient2552-3-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.1565034,0.8646754)"
+       cx="87.548386"
+       cy="374.70709"
+       fx="87.548386"
+       fy="374.70709"
+       r="23.130068" />
+    <radialGradient
+       id="DSA-67-0">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-5-6" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-3-2" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-56-6" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-5">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-92" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-28" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-9" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1809">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1803" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1805" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1807" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-5-0">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-92-3" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-28-6" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-9-1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1893">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1887" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1889" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1891" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-1"
+       id="radialGradient1245"
+       gradientTransform="scale(1.4186261,0.70490738)"
+       cx="33.306873"
+       cy="421.33194"
+       fx="33.306873"
+       fy="421.33194"
+       r="28.372522"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="DSA-1">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-5-3" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-98" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-4" />
+    </radialGradient>
+  </defs>
+  <g
+     class="  keycap"
+     id="g44"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect34"
+       style="fill:#c0472c;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect36"
+       style="fill:#c0472c" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect38"
+       style="fill:#de6143;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect40"
+       style="fill:#de6143" />
+    <rect
+       x="7"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect42"
+       style="fill:url(#radialGradient2097)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g56"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="109"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect46"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="109"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect48"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="115"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect50"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="115"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect52"
+       style="fill:#5fc7dd" />
+    <rect
+       x="115"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect54"
+       style="fill:url(#radialGradient2099)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g68"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="163"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect58"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="163"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect60"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="169"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect62"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="169"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect64"
+       style="fill:#5fc7dd" />
+    <rect
+       x="169"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect66"
+       style="fill:url(#radialGradient2101)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g80"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="217"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect70"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="217"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect72"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="223"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect74"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="223"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect76"
+       style="fill:#5fc7dd" />
+    <rect
+       x="223"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect78"
+       style="fill:url(#radialGradient2103)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g92"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="271"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect82"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="271"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect84"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="277"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect86"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="277"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect88"
+       style="fill:#5fc7dd" />
+    <rect
+       x="277"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect90"
+       style="fill:url(#radialGradient2105)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g104"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="352"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect94"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="352"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect96"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="358"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect98"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="358"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect100"
+       style="fill:#5fc7dd" />
+    <rect
+       x="358"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect102"
+       style="fill:url(#radialGradient2107)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g116"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="406"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect106"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="406"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect108"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="412"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect110"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="412"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect112"
+       style="fill:#5fc7dd" />
+    <rect
+       x="412"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect114"
+       style="fill:url(#radialGradient2109)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g128"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="460"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect118"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="460"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect120"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="466"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect122"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="466"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect124"
+       style="fill:#5fc7dd" />
+    <rect
+       x="466"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect126"
+       style="fill:url(#radialGradient2111)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g140"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="514"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect130"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="514"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect132"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="520"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect134"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="520"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect136"
+       style="fill:#5fc7dd" />
+    <rect
+       x="520"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect138"
+       style="fill:url(#radialGradient2113)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g152"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="595"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect142"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="595"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect144"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="601"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect146"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="601"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect148"
+       style="fill:#5fc7dd" />
+    <rect
+       x="601"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect150"
+       style="fill:url(#radialGradient2115)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g164"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="649"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect154"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="649"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect156"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="655"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect158"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="655"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect160"
+       style="fill:#5fc7dd" />
+    <rect
+       x="655"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect162"
+       style="fill:url(#radialGradient2117)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g176"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="703"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect166"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="703"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect168"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="709"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect170"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="709"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect172"
+       style="fill:#5fc7dd" />
+    <rect
+       x="709"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect174"
+       style="fill:url(#radialGradient2119)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g188"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="757"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect178"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="757"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect180"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="763"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect182"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="763"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect184"
+       style="fill:#5fc7dd" />
+    <rect
+       x="763"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect186"
+       style="fill:url(#radialGradient2121)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g200"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="824.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect190"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="824.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect192"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="830.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect194"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="830.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect196"
+       style="fill:#5fc7dd" />
+    <rect
+       x="830.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect198"
+       style="fill:url(#radialGradient2123)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g212"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="878.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect202"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="878.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect204"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="884.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect206"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="884.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect208"
+       style="fill:#5fc7dd" />
+    <rect
+       x="884.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect210"
+       style="fill:url(#radialGradient2125)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g224"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="932.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect214"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="932.5"
+       y="1"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect216"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="938.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect218"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="938.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect220"
+       style="fill:#5fc7dd" />
+    <rect
+       x="938.5"
+       y="7"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect222"
+       style="fill:url(#radialGradient2127)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g236"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect226"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect228"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect230"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect232"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect234"
+       style="fill:url(#radialGradient2129)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g392"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="703"
+       y="82"
+       width="106"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect382"
+       style="fill:#c0472c;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="703"
+       y="82"
+       width="106"
+       height="52"
+       rx="5"
+       id="rect384"
+       style="fill:#c0472c" />
+    <!-- Inner Border -->
+    <rect
+       x="709"
+       y="88"
+       width="94"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect386"
+       style="fill:#de6143;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="709"
+       y="88"
+       width="94"
+       height="40"
+       rx="5"
+       id="rect388"
+       style="fill:#de6143" />
+    <rect
+       x="709"
+       y="88"
+       width="94"
+       height="40"
+       rx="5"
+       id="rect390"
+       style="fill:url(#radialGradient2155)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g404"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="824.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect394"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="824.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect396"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="830.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect398"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="830.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect400"
+       style="fill:#5fc7dd" />
+    <rect
+       x="830.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect402"
+       style="fill:url(#radialGradient2157)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g416"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="878.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect406"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="878.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect408"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="884.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect410"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="884.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect412"
+       style="fill:#5fc7dd" />
+    <rect
+       x="884.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect414"
+       style="fill:url(#radialGradient2159)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g428"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="932.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect418"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="932.5"
+       y="82"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect420"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="938.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect422"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="938.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect424"
+       style="fill:#5fc7dd" />
+    <rect
+       x="938.5"
+       y="88"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect426"
+       style="fill:url(#radialGradient2161)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g488"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="136"
+       width="79"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect478"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="136"
+       width="79"
+       height="52"
+       rx="5"
+       id="rect480"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect482"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       id="rect484"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       id="rect486"
+       style="fill:url(#radialGradient2171)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g644"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="730"
+       y="136"
+       width="79"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect634"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="730"
+       y="136"
+       width="79"
+       height="52"
+       rx="5"
+       id="rect636"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="736"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect638"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="736"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       id="rect640"
+       style="fill:#5fc7dd" />
+    <rect
+       x="736"
+       y="142"
+       width="67"
+       height="40"
+       rx="5"
+       id="rect642"
+       style="fill:url(#radialGradient2197)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g656"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="824.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect646"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="824.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect648"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="830.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect650"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="830.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect652"
+       style="fill:#5fc7dd" />
+    <rect
+       x="830.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect654"
+       style="fill:url(#radialGradient2199)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g668"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="878.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect658"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="878.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect660"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="884.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect662"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="884.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect664"
+       style="fill:#5fc7dd" />
+    <rect
+       x="884.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect666"
+       style="fill:url(#radialGradient2201)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g680"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="932.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect670"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="932.5"
+       y="136"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect672"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="938.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect674"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="938.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect676"
+       style="fill:#5fc7dd" />
+    <rect
+       x="938.5"
+       y="142"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect678"
+       style="fill:url(#radialGradient2203)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g740"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="190"
+       width="92.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect730"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="190"
+       width="92.5"
+       height="52"
+       rx="5"
+       id="rect732"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="196"
+       width="80.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect734"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="196"
+       width="80.5"
+       height="40"
+       rx="5"
+       id="rect736"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="196"
+       width="80.5"
+       height="40"
+       rx="5"
+       id="rect738"
+       style="fill:url(#radialGradient2213)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g884"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="689.5"
+       y="190"
+       width="119.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect874"
+       style="fill:#e8a900;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="689.5"
+       y="190"
+       width="119.5"
+       height="52"
+       rx="5"
+       id="rect876"
+       style="fill:#e8a900" />
+    <!-- Inner Border -->
+    <rect
+       x="695.5"
+       y="196"
+       width="107.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect878"
+       style="fill:#ffd241;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="695.5"
+       y="196"
+       width="107.5"
+       height="40"
+       rx="5"
+       id="rect880"
+       style="fill:#ffd241" />
+    <rect
+       x="695.5"
+       y="196"
+       width="107.5"
+       height="40"
+       rx="5"
+       id="rect882"
+       style="fill:url(#radialGradient2237)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g932"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="244"
+       width="119.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect922"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="244"
+       width="119.5"
+       height="52"
+       rx="5"
+       id="rect924"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="250"
+       width="107.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect926"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="250"
+       width="107.5"
+       height="40"
+       rx="5"
+       id="rect928"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="250"
+       width="107.5"
+       height="40"
+       rx="5"
+       id="rect930"
+       style="fill:url(#radialGradient2245)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1064"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="662.5"
+       y="244"
+       width="146.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1054"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="662.5"
+       y="244"
+       width="146.5"
+       height="52"
+       rx="5"
+       id="rect1056"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="668.5"
+       y="250"
+       width="134.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1058"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="668.5"
+       y="250"
+       width="134.5"
+       height="40"
+       rx="5"
+       id="rect1060"
+       style="fill:#5fc7dd" />
+    <rect
+       x="668.5"
+       y="250"
+       width="134.5"
+       height="40"
+       rx="5"
+       id="rect1062"
+       style="fill:url(#radialGradient2267)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1076"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="878.5"
+       y="244"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1066"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="878.5"
+       y="244"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect1068"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="884.5"
+       y="250"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1070"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="884.5"
+       y="250"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1072"
+       style="fill:#5fc7dd" />
+    <rect
+       x="884.5"
+       y="250"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1074"
+       style="fill:url(#radialGradient2269)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1136"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1126"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1128"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1130"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1132"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1134"
+       style="fill:url(#radialGradient2279)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1148"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="68.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1138"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="68.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1140"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="74.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1142"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="74.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1144"
+       style="fill:#5fc7dd" />
+    <rect
+       x="74.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1146"
+       style="fill:url(#radialGradient2281)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1160"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="136"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1150"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="136"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1152"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="142"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1154"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="142"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1156"
+       style="fill:#5fc7dd" />
+    <rect
+       x="142"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1158"
+       style="fill:url(#radialGradient2283)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1184"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="541"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1174"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="541"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1176"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="547"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1178"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="547"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1180"
+       style="fill:#5fc7dd" />
+    <rect
+       x="547"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1182"
+       style="fill:url(#radialGradient2287)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1196"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="608.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1186"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="608.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1188"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="614.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1190"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="614.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1192"
+       style="fill:#5fc7dd" />
+    <rect
+       x="614.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1194"
+       style="fill:url(#radialGradient2289)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1208"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="676"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1198"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="676"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1200"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="682"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1202"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="682"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1204"
+       style="fill:#5fc7dd" />
+    <rect
+       x="682"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1206"
+       style="fill:url(#radialGradient2291)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1220"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="743.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1210"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="743.5"
+       y="298"
+       width="65.5"
+       height="52"
+       rx="5"
+       id="rect1212"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="749.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1214"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="749.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1216"
+       style="fill:#5fc7dd" />
+    <rect
+       x="749.5"
+       y="304"
+       width="53.5"
+       height="40"
+       rx="5"
+       id="rect1218"
+       style="fill:url(#radialGradient2293)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1232"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="824.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1222"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="824.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect1224"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="830.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1226"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="830.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1228"
+       style="fill:#5fc7dd" />
+    <rect
+       x="830.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1230"
+       style="fill:url(#radialGradient2295)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1244"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="878.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1234"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="878.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect1236"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="884.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1238"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="884.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1240"
+       style="fill:#5fc7dd" />
+    <rect
+       x="884.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1242"
+       style="fill:url(#radialGradient2297)" />
+  </g>
+  <g
+     class="  keycap"
+     id="g1256"
+     transform="translate(38.000022,200.49971)">
+    <!-- Outer Border -->
+    <rect
+       x="932.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect1246"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="932.5"
+       y="298"
+       width="52"
+       height="52"
+       rx="5"
+       id="rect1248"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="938.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect1250"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="938.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1252"
+       style="fill:#5fc7dd" />
+    <rect
+       x="938.5"
+       y="304"
+       width="40"
+       height="40"
+       rx="5"
+       id="rect1254"
+       style="fill:url(#radialGradient2299)" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     x="177"
+     y="419.55701"
+     id="text1570"><tspan
+       sodipodi:role="line"
+       id="tspan1568"
+       x="177"
+       y="435.59033" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="78.782021"
+     y="368.21234"
+     id="text1564-7"><tspan
+       sodipodi:role="line"
+       id="tspan1562-5"
+       x="78.782021"
+       y="368.21234"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">TAB</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="85.308113"
+     y="422.13901"
+     id="text1564-7-3"><tspan
+       sodipodi:role="line"
+       id="tspan1562-5-5"
+       x="85.308113"
+       y="422.13901"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">CAPS</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="98.472969"
+     y="476.02896"
+     id="text1564-7-3-6"><tspan
+       sodipodi:role="line"
+       id="tspan1562-5-5-2"
+       x="98.472969"
+       y="476.02896"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SHIFT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="71.523933"
+     y="530.02905"
+     id="text1564-7-3-6-9"><tspan
+       sodipodi:role="line"
+       id="tspan1562-5-5-2-1"
+       x="71.523933"
+       y="530.02905"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">CTRL</tspan></text>
+  <rect
+     width="1115.8446"
+     height="624.40222"
+     rx="5.4653616"
+     id="rect857"
+     x="-53.800106"
+     y="1.2134817"
+     style="fill:#eeeeee;stroke:#050505;stroke-width:2.48995423;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83333333;paint-order:stroke fill markers" />
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g869"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#c0472c;stroke:#000000;stroke-width:1"
+       id="rect859"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#c0472c"
+       id="rect861"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#de6143;stroke-width:2"
+       id="rect863"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#de6143"
+       id="rect865"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2706)"
+       id="rect867"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g881"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect871"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="109" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect873"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="109" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect875"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="115" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect877"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="115" />
+    <rect
+       style="fill:url(#radialGradient2704)"
+       id="rect879"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="115" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g893"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect883"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="163" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect885"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="163" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect887"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="169" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect889"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="169" />
+    <rect
+       style="fill:url(#radialGradient2702)"
+       id="rect891"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="169" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g905"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect895"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="217" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect897"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="217" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect899"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="223" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect901"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="223" />
+    <rect
+       style="fill:url(#radialGradient2700)"
+       id="rect903"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="223" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g917"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect907"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="271" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect909"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="271" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect911"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="277" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect913"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="277" />
+    <rect
+       style="fill:url(#radialGradient2698)"
+       id="rect915"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="277" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g929"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect919"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="352" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect921"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="352" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect923"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="358" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect925"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="358" />
+    <rect
+       style="fill:url(#radialGradient2696)"
+       id="rect927"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="358" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g941"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect931"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="406" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect933"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="406" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect935"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="412" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect937"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="412" />
+    <rect
+       style="fill:url(#radialGradient2694)"
+       id="rect939"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="412" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g953"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect943"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="460" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect945"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="460" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect947"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="466" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect949"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="466" />
+    <rect
+       style="fill:url(#radialGradient2692)"
+       id="rect951"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="466" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g965"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect955"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="514" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect957"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="514" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect959"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="520" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect961"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="520" />
+    <rect
+       style="fill:url(#radialGradient2690)"
+       id="rect963"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="520" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g977"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect967"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="595" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect969"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="595" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect971"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="601" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect973"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="601" />
+    <rect
+       style="fill:url(#radialGradient2688)"
+       id="rect975"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="601" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g989"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect979"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="649" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect981"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="649" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect983"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="655" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect985"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="655" />
+    <rect
+       style="fill:url(#radialGradient2686)"
+       id="rect987"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="655" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1001"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect991"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="703" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect993"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="703" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect995"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="709" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect997"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="709" />
+    <rect
+       style="fill:url(#radialGradient2684)"
+       id="rect999"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="709" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1013"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1003"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="757" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1005"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="757" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1007"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="763" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1009"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="763" />
+    <rect
+       style="fill:url(#radialGradient2682)"
+       id="rect1011"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="763" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1025"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1015"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="824.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1017"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="824.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1019"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="830.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1021"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="830.5" />
+    <rect
+       style="fill:url(#radialGradient2680)"
+       id="rect1023"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="830.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1037"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1027"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="878.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1029"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="878.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1031"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="884.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1033"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="884.5" />
+    <rect
+       style="fill:url(#radialGradient2678)"
+       id="rect1035"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="884.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1049"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1039"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="932.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1041"
+       rx="5"
+       height="52"
+       width="52"
+       y="1"
+       x="932.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1043"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="938.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1045"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="938.5" />
+    <rect
+       style="fill:url(#radialGradient2676)"
+       id="rect1047"
+       rx="5"
+       height="40"
+       width="40"
+       y="7"
+       x="938.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1061"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1051"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1053"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1055"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1057"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2674)"
+       id="rect1059"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1217"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#c0472c;stroke:#000000;stroke-width:1"
+       id="rect1207"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="106"
+       y="82"
+       x="703" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#c0472c"
+       id="rect1209"
+       rx="5"
+       height="52"
+       width="106"
+       y="82"
+       x="703" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#de6143;stroke-width:2"
+       id="rect1211"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="94"
+       y="88"
+       x="709" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#de6143"
+       id="rect1213"
+       rx="5"
+       height="40"
+       width="94"
+       y="88"
+       x="709" />
+    <rect
+       style="fill:url(#radialGradient2648)"
+       id="rect1215"
+       rx="5"
+       height="40"
+       width="94"
+       y="88"
+       x="709" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1229"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1219"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="824.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1221"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="824.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1223"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="830.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1225"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="830.5" />
+    <rect
+       style="fill:url(#radialGradient2646)"
+       id="rect1227"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="830.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1241"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1231"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="878.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1233"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="878.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1235"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="884.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1237"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="884.5" />
+    <rect
+       style="fill:url(#radialGradient2644)"
+       id="rect1239"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="884.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1253"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1243"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="932.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1245"
+       rx="5"
+       height="52"
+       width="52"
+       y="82"
+       x="932.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1247"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="938.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1249"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="938.5" />
+    <rect
+       style="fill:url(#radialGradient2642)"
+       id="rect1251"
+       rx="5"
+       height="40"
+       width="40"
+       y="88"
+       x="938.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1313"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1303"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="79"
+       y="136"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1305"
+       rx="5"
+       height="52"
+       width="79"
+       y="136"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1307"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1309"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2640)"
+       id="rect1311"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1469"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1459"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="79"
+       y="136"
+       x="730" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1461"
+       rx="5"
+       height="52"
+       width="79"
+       y="136"
+       x="730" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1463"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="736" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1465"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="736" />
+    <rect
+       style="fill:url(#radialGradient2614)"
+       id="rect1467"
+       rx="5"
+       height="40"
+       width="67"
+       y="142"
+       x="736" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1481"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1471"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="824.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1473"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="824.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1475"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="830.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1477"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="830.5" />
+    <rect
+       style="fill:url(#radialGradient2612)"
+       id="rect1479"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="830.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1493"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1483"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="878.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1485"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="878.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1487"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="884.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1489"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="884.5" />
+    <rect
+       style="fill:url(#radialGradient2610)"
+       id="rect1491"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="884.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1505"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1495"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="932.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1497"
+       rx="5"
+       height="52"
+       width="52"
+       y="136"
+       x="932.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1499"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="938.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1501"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="938.5" />
+    <rect
+       style="fill:url(#radialGradient2608)"
+       id="rect1503"
+       rx="5"
+       height="40"
+       width="40"
+       y="142"
+       x="938.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1565"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1555"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="92.5"
+       y="190"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1557"
+       rx="5"
+       height="52"
+       width="92.5"
+       y="190"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1559"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="80.5"
+       y="196"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1561"
+       rx="5"
+       height="40"
+       width="80.5"
+       y="196"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2606)"
+       id="rect1563"
+       rx="5"
+       height="40"
+       width="80.5"
+       y="196"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1709"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#e8a900;stroke:#000000;stroke-width:1"
+       id="rect1699"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="119.5"
+       y="190"
+       x="689.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#e8a900"
+       id="rect1701"
+       rx="5"
+       height="52"
+       width="119.5"
+       y="190"
+       x="689.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#ffd241;stroke-width:2"
+       id="rect1703"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="196"
+       x="695.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#ffd241"
+       id="rect1705"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="196"
+       x="695.5" />
+    <rect
+       style="fill:url(#radialGradient2582)"
+       id="rect1707"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="196"
+       x="695.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1757"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1747"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="119.5"
+       y="244"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1749"
+       rx="5"
+       height="52"
+       width="119.5"
+       y="244"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1751"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="250"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1753"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="250"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2580)"
+       id="rect1755"
+       rx="5"
+       height="40"
+       width="107.5"
+       y="250"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1889"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1879"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="146.5"
+       y="244"
+       x="662.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1881"
+       rx="5"
+       height="52"
+       width="146.5"
+       y="244"
+       x="662.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1883"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="134.5"
+       y="250"
+       x="668.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1885"
+       rx="5"
+       height="40"
+       width="134.5"
+       y="250"
+       x="668.5" />
+    <rect
+       style="fill:url(#radialGradient2558)"
+       id="rect1887"
+       rx="5"
+       height="40"
+       width="134.5"
+       y="250"
+       x="668.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1901"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1891"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="244"
+       x="878.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1893"
+       rx="5"
+       height="52"
+       width="52"
+       y="244"
+       x="878.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1895"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="250"
+       x="884.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1897"
+       rx="5"
+       height="40"
+       width="40"
+       y="250"
+       x="884.5" />
+    <rect
+       style="fill:url(#radialGradient2556)"
+       id="rect1899"
+       rx="5"
+       height="40"
+       width="40"
+       y="250"
+       x="884.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1961"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1951"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="1" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1953"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="1" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1955"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="7" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1957"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="7" />
+    <rect
+       style="fill:url(#radialGradient2554)"
+       id="rect1959"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="7" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1973"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1963"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1965"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1967"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1969"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <rect
+       style="fill:url(#radialGradient2552)"
+       id="rect1971"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g1985"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1975"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="136" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1977"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="136" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1979"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="142" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1981"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="142" />
+    <rect
+       style="fill:url(#radialGradient2550)"
+       id="rect1983"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="142" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2009"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1999"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="541" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2001"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="541" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2003"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="547" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2005"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="547" />
+    <rect
+       style="fill:url(#radialGradient2546)"
+       id="rect2007"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="547" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2021"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2011"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="608.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2013"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="608.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2015"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="614.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2017"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="614.5" />
+    <rect
+       style="fill:url(#radialGradient2544)"
+       id="rect2019"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="614.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2033"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2023"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="676" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2025"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="676" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2027"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="682" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2029"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="682" />
+    <rect
+       style="fill:url(#radialGradient2542)"
+       id="rect2031"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="682" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2045"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2035"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="743.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2037"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="743.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2039"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="749.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2041"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="749.5" />
+    <rect
+       style="fill:url(#radialGradient2540)"
+       id="rect2043"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="749.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2057"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2047"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="824.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2049"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="824.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2051"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="830.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2053"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="830.5" />
+    <rect
+       style="fill:url(#radialGradient2538)"
+       id="rect2055"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="830.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2069"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2059"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="878.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2061"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="878.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2063"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="884.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2065"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="884.5" />
+    <rect
+       style="fill:url(#radialGradient2536)"
+       id="rect2067"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="884.5" />
+  </g>
+  <g
+     transform="translate(38.000022,200.49971)"
+     id="g2081"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect2071"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="932.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect2073"
+       rx="5"
+       height="52"
+       width="52"
+       y="298"
+       x="932.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect2075"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="938.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect2077"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="938.5" />
+    <rect
+       style="fill:url(#radialGradient2534)"
+       id="rect2079"
+       rx="5"
+       height="40"
+       width="40"
+       y="304"
+       x="938.5" />
+  </g>
+  <text
+     id="text2113"
+     y="419.55701"
+     x="177"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       y="435.59033"
+       x="177"
+       id="tspan2111"
+       sodipodi:role="line" /></text>
+  <text
+     id="text2217"
+     y="367.69299"
+     x="78.756386"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="367.69299"
+       x="79.256386"
+       id="tspan2215"
+       sodipodi:role="line">TAB</tspan></text>
+  <text
+     id="text2221"
+     y="413.61371"
+     x="84.730644"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:0.1;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="413.61371"
+       x="85.230644"
+       id="tspan2219"
+       sodipodi:role="line">CAPS</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:0.1;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="428.61371"
+       x="85.230644"
+       sodipodi:role="line"
+       id="tspan2440">LOCK</tspan></text>
+  <text
+     id="text2225"
+     y="475.52634"
+     x="98.498154"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="475.52634"
+       x="98.998154"
+       id="tspan2223"
+       sodipodi:role="line">SHIFT</tspan></text>
+  <text
+     id="text2229"
+     y="529.02368"
+     x="71.565056"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.02368"
+       x="72.065056"
+       id="tspan2227"
+       sodipodi:role="line">CTRL</tspan></text>
+  <text
+     id="text2229-5"
+     y="529.02374"
+     x="139.19771"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.02374"
+       x="139.69771"
+       id="tspan2227-6"
+       sodipodi:role="line">SUPER</tspan></text>
+  <text
+     id="text2229-5-4"
+     y="529.17371"
+     x="206.75719"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.17371"
+       x="207.25719"
+       id="tspan2227-6-6"
+       sodipodi:role="line">ALT</tspan></text>
+  <text
+     id="text2217-3"
+     y="232.02373"
+     x="64.863708"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="232.02373"
+       x="65.363708"
+       id="tspan2215-7"
+       sodipodi:role="line">ESC</tspan></text>
+  <text
+     id="text2225-9"
+     y="420.93372"
+     x="786.96973"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:9.43999863px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="420.93372"
+       x="787.46973"
+       id="tspan2223-7"
+       sodipodi:role="line">ENTER</tspan></text>
+  <text
+     id="text2225-9-4-1"
+     y="313.42636"
+     x="888.25281"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="313.42636"
+       x="888.25281"
+       id="tspan2223-7-9-7"
+       sodipodi:role="line">INS</tspan></text>
+  <text
+     id="text2225-9-4-1-0"
+     y="313.02371"
+     x="942.41492"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:-0.2px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:-0.2px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="313.02371"
+       x="942.31494"
+       id="tspan2223-7-9-7-6"
+       sodipodi:role="line">HOME</tspan></text>
+  <text
+     id="text2225-9-4-1-0-5"
+     y="305.85971"
+     x="996.20007"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="305.85971"
+       x="996.20007"
+       id="tspan2223-7-9-7-6-3"
+       sodipodi:role="line">PG</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="321.19305"
+       x="996.20007"
+       sodipodi:role="line"
+       id="tspan6951">UP</tspan></text>
+  <text
+     id="text2225-9-4-1-0-5-9"
+     y="359.7597"
+     x="996.505"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="359.7597"
+       x="996.505"
+       id="tspan2223-7-9-7-6-3-4"
+       sodipodi:role="line">PG</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.14999998;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="375.09305"
+       x="996.505"
+       sodipodi:role="line"
+       id="tspan6951-1">DN</tspan></text>
+  <text
+     id="text2225-9-4-1-0-55"
+     y="367.42636"
+     x="942.19562"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="367.42636"
+       x="942.19562"
+       id="tspan2223-7-9-7-6-4"
+       sodipodi:role="line">END</tspan></text>
+  <text
+     id="text2225-9-4-1-9"
+     y="367.52637"
+     x="887.99451"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="367.52637"
+       x="887.99451"
+       id="tspan2223-7-9-7-8"
+       sodipodi:role="line">DEL</tspan></text>
+  <text
+     id="text2241-4"
+     y="356.17303"
+     x="807.50525"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2239-3"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="356.17303"
+       x="807.50525"
+       sodipodi:role="line">|</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="376.17303"
+       x="807.50525"
+       sodipodi:role="line"
+       id="tspan7186">\</tspan></text>
+  <text
+     id="text2225-3"
+     y="475.02371"
+     x="773.52332"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="475.02371"
+       x="774.02332"
+       id="tspan2223-6"
+       sodipodi:role="line">SHIFT</tspan></text>
+  <text
+     id="text2229-1"
+     y="529.02374"
+     x="814.06506"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.02374"
+       x="814.56506"
+       id="tspan2227-2"
+       sodipodi:role="line">CTRL</tspan></text>
+  <text
+     id="text2229-5-9"
+     y="528.93372"
+     x="746.75452"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="528.93372"
+       x="747.25452"
+       id="tspan2227-6-3"
+       sodipodi:role="line">FN</tspan></text>
+  <text
+     id="text2229-5-4-1"
+     y="529.17371"
+     x="611.7572"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.17371"
+       x="612.2572"
+       id="tspan2227-6-6-9"
+       sodipodi:role="line">ALT</tspan></text>
+  <text
+     id="text2229-5-9-4"
+     y="529.02374"
+     x="679.19769"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:1px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.02374"
+       x="679.69769"
+       id="tspan2227-6-3-7"
+       sodipodi:role="line">SUPER</tspan></text>
+  <text
+     id="text2229-1-8"
+     y="529.52643"
+     x="887.99481"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.52643"
+       x="888.49481"
+       id="tspan2227-2-4"
+       sodipodi:role="line">LEFT</tspan></text>
+  <text
+     id="text2229-1-8-5"
+     y="529.42639"
+     x="942.505"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.42639"
+       x="942.505"
+       id="tspan2227-2-4-0"
+       sodipodi:role="line">DN</tspan></text>
+  <text
+     id="text2229-1-8-5-3"
+     y="529.52643"
+     x="995.99481"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.52643"
+       x="996.24481"
+       id="tspan2227-2-4-0-6"
+       sodipodi:role="line">RIGHT</tspan></text>
+  <text
+     id="text2229-1-8-5-3-1"
+     y="475.45969"
+     x="942.19104"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="475.45969"
+       x="942.19104"
+       id="tspan2227-2-4-0-6-0"
+       sodipodi:role="line">UP</tspan></text>
+  <text
+     id="text2235-7-5-9-7-3-6-1-9-2-5-2-7-6"
+     y="304.28638"
+     x="64.994301"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan2231-5-6-1-0-6-2-8-2-3-9-8-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="304.28638"
+       x="64.994301"
+       sodipodi:role="line">~</tspan><tspan
+       id="tspan2233-3-2-2-9-0-6-7-0-7-2-9-6-2"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="324.28638"
+       x="64.994301"
+       sodipodi:role="line">`</tspan></text>
+  <text
+     id="text2117-3"
+     y="234.03438"
+     x="174.57858"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="174.57858"
+       id="tspan2115-6"
+       sodipodi:role="line">F1</tspan></text>
+  <text
+     id="text2117-3-7"
+     y="234.03438"
+     x="228.57855"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="228.57855"
+       id="tspan2115-6-5"
+       sodipodi:role="line">F2</tspan></text>
+  <text
+     id="text2117-3-7-3"
+     y="234.03438"
+     x="281.14856"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="281.14856"
+       id="tspan2115-6-5-5"
+       sodipodi:role="line">F3</tspan></text>
+  <text
+     id="text2117-3-7-3-6"
+     y="234.25972"
+     x="334.69791"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.25972"
+       x="334.69791"
+       id="tspan2115-6-5-5-2"
+       sodipodi:role="line">F4</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9"
+     y="234.25972"
+     x="415.69788"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.25972"
+       x="415.69788"
+       id="tspan2115-6-5-5-2-1"
+       sodipodi:role="line">F5</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2"
+     y="234.03438"
+     x="469.65454"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="469.65454"
+       id="tspan2115-6-5-5-2-1-7"
+       sodipodi:role="line">F6</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2-0"
+     y="233.96504"
+     x="523.31659"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="233.96504"
+       x="523.31659"
+       id="tspan2115-6-5-5-2-1-7-9"
+       sodipodi:role="line">F7</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2-0-3"
+     y="234.03438"
+     x="578.07922"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="578.07922"
+       id="tspan2115-6-5-5-2-1-7-9-6"
+       sodipodi:role="line">F8</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-0"
+     y="234.25972"
+     x="658.69781"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.25972"
+       x="658.69781"
+       id="tspan2115-6-5-5-2-1-6"
+       sodipodi:role="line">F9</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2-2"
+     y="234.03438"
+     x="705.31256"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:-1.5px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:-1.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="704.56256"
+       id="tspan2115-6-5-5-2-1-7-6"
+       sodipodi:role="line"
+       dx="14.579994">F10</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2-0-1"
+     y="234.03438"
+     x="768.57855"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:-1.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.03438"
+       x="767.82855"
+       id="tspan2115-6-5-5-2-1-7-9-8"
+       sodipodi:role="line">F11</tspan></text>
+  <text
+     id="text2117-3-7-3-6-9-2-0-3-7"
+     y="234.12105"
+     x="821.00989"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:14.66666698px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:-1.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="234.12105"
+       x="820.25989"
+       id="tspan2115-6-5-5-2-1-7-9-6-9"
+       sodipodi:role="line">F12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9cd3f;fill-opacity:1;stroke:none"
+     x="504.09775"
+     y="108.20381"
+     id="text2444"><tspan
+       sodipodi:role="line"
+       x="505.59775"
+       y="108.20381"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';text-align:center;letter-spacing:3px;text-anchor:middle;fill:#000000;fill-opacity:1"
+       id="tspan2474"><tspan
+         id="tspan2476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:3px;fill:#f9cd3f;fill-opacity:1">Esteban</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="505.59775"
+       y="152.07048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';text-align:center;letter-spacing:3px;text-anchor:middle;fill:#000000;fill-opacity:1"
+       id="tspan2478">(modifiers)</tspan><tspan
+       sodipodi:role="line"
+       x="504.09775"
+       y="192.07048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:3px;fill:#f9cd3f;fill-opacity:1"
+       id="tspan2466" /></text>
+  <text
+     id="text2225-9-4-1-4"
+     y="313.11371"
+     x="793.91492"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="313.11371"
+       x="794.41492"
+       id="tspan2223-7-9-7-0"
+       sodipodi:role="line">BACKSPACE</tspan></text>
+  <text
+     id="text2225-9-4-1-3"
+     y="232.42638"
+     x="887.99481"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="232.42638"
+       x="887.99481"
+       id="tspan2223-7-9-7-5"
+       sodipodi:role="line">PRINT</tspan></text>
+  <text
+     id="text2225-9-4-1-3-8"
+     y="232.52638"
+     x="941.92242"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="232.52638"
+       x="941.92242"
+       id="tspan2223-7-9-7-5-5"
+       sodipodi:role="line">LOCK</tspan></text>
+  <text
+     id="text2225-9-4-1-3-8-0"
+     y="232.62639"
+     x="996.40546"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="232.62639"
+       x="996.40546"
+       id="tspan2223-7-9-7-5-5-9"
+       sodipodi:role="line">PAUSE</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:588.25;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:100px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="638.05341"
+     y="147.36478"
+     id="text2385"><tspan
+       sodipodi:role="line"
+       id="tspan2383"
+       x="638.05341"
+       y="147.36478"> </tspan></text>
+  <g
+     transform="translate(172.95315,200.59737)"
+     id="g1973-2"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1963-9"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1965-1"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1967-2"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1969-7"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <rect
+       style="fill:url(#radialGradient2552-3)"
+       id="rect1971-0"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+  </g>
+  <text
+     id="text2229-5-4-9"
+     y="529.27136"
+     x="274.21033"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="529.27136"
+       x="274.71033"
+       id="tspan2227-6-6-3"
+       sodipodi:role="line">META</tspan></text>
+  <g
+     transform="translate(443.14455,200.01793)"
+     id="g1973-2-1"
+     class="  keycap">
+    <!-- Outer Border -->
+    <rect
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1"
+       id="rect1963-9-8"
+       class="outer border"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Outer Fill -->
+    <rect
+       style="fill:#34a4b9"
+       id="rect1965-1-7"
+       rx="5"
+       height="52"
+       width="65.5"
+       y="298"
+       x="68.5" />
+    <!-- Inner Border -->
+    <rect
+       style="fill:#5fc7dd;stroke-width:2"
+       id="rect1967-2-9"
+       class="inner border"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <!-- Inner Fill -->
+    <rect
+       style="fill:#5fc7dd"
+       id="rect1969-7-2"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+    <rect
+       style="fill:url(#radialGradient2552-3-6)"
+       id="rect1971-0-0"
+       rx="5"
+       height="40"
+       width="53.5"
+       y="304"
+       x="74.5" />
+  </g>
+  <text
+     id="text2229-5-4-9-2"
+     y="528.69189"
+     x="544.40173"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="528.69189"
+       x="544.90173"
+       id="tspan2227-6-6-3-3"
+       sodipodi:role="line">META</tspan></text>
+  <g
+     class="  keycap"
+     id="g332"
+     transform="translate(159.32739,173.39797)">
+    <!-- Outer Border -->
+    <rect
+       x="1"
+       y="271"
+       width="92.5"
+       height="52"
+       rx="5"
+       class="outer border"
+       id="rect322"
+       style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+    <!-- Outer Fill -->
+    <rect
+       x="1"
+       y="271"
+       width="92.5"
+       height="52"
+       rx="5"
+       id="rect324"
+       style="fill:#34a4b9" />
+    <!-- Inner Border -->
+    <rect
+       x="7"
+       y="277"
+       width="80.5"
+       height="40"
+       rx="5"
+       class="inner border"
+       id="rect326"
+       style="fill:#5fc7dd;stroke-width:2" />
+    <!-- Inner Fill -->
+    <rect
+       x="7"
+       y="277"
+       width="80.5"
+       height="40"
+       rx="5"
+       id="rect328"
+       style="fill:#5fc7dd" />
+    <rect
+       x="7"
+       y="277"
+       width="80.5"
+       height="40"
+       rx="5"
+       id="rect330"
+       style="fill:url(#radialGradient1245)" />
+  </g>
+  <text
+     id="text2225-8"
+     y="474.922"
+     x="206.35069"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="474.922"
+       x="206.85069"
+       id="tspan2223-6-6"
+       sodipodi:role="line">SHIFT</tspan></text>
+</svg>

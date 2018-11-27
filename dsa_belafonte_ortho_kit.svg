@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="750"
+   height="533"
+   viewBox="0 0 750 533"
+   version="1.1"
+   id="svg1286"
+   sodipodi:docname="dsa_belafonte_ortho_kit.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata1290">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview1288"
+     showgrid="false"
+     inkscape:zoom="1.0330863"
+     inkscape:cx="327.85881"
+     inkscape:cy="288.32158"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1588"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true">
+    <sodipodi:guide
+       position="388.15731,316.52728"
+       orientation="1,0"
+       id="guide2721"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="style2">
+    .keycap .border { stroke: black; stroke-width: 2; }
+    .keycap .inner.border { stroke: rgba(0,0,0,.1); }
+    </style>
+  <defs
+     id="defs30">
+    <linearGradient
+       id="DCS">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop4" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop6" />
+      <stop
+         offset="60%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="SPACE"
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop13" />
+      <stop
+         offset="20%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop15" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop19" />
+    </linearGradient>
+    <radialGradient
+       id="DSA">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26" />
+    </radialGradient>
+    <radialGradient
+       id="SA"
+       xlink:href="#DSA" />
+    <radialGradient
+       id="DSA-6">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-7" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-5" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-3" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-7">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-0" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-9" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-36" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1003">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop997" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop999" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1001" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1012">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1006" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1008" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1010" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1021">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1015" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1017" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1019" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1030">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1024" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1026" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1028" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1039">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1033" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1035" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1037" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1048">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1042" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1044" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1046" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1057">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1051" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1053" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1055" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1066">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1060" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1062" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1064" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1075">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1069" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1071" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1073" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1084">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1078" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1080" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1082" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1093">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1087" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1089" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1091" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1102">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1096" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1098" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1100" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1111">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1105" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1107" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1109" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1120">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1114" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1116" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1118" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1130">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1123" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1125" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1127" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1140">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1133" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1135" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1137" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="30.659418"
+       fy="372.51196"
+       fx="35.225716"
+       cy="372.51196"
+       cx="35.225716"
+       gradientTransform="scale(1.532971,0.65232807)"
+       id="radialGradient1149">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1143" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1145" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1147" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1159">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1153" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1155" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1157" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-7"
+       id="radialGradient1161"
+       cx="135"
+       cy="243"
+       fx="135"
+       fy="243"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1169">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1163" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1165" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1167" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1178">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1172" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1174" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1176" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient1187">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1181" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1183" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1185" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-0">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-6" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-2" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-6" />
+    </radialGradient>
+    <radialGradient
+       id="DSA-7-3">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-0-7" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-9-5" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-36-9" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1137"
+       cx="27"
+       cy="27"
+       fx="27"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="DSA-63">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop22-8" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop24-56" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop26-1" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1139"
+       cx="621"
+       cy="27"
+       fx="621"
+       fy="27"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1495">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1489" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1491" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1493" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1141"
+       cx="27"
+       cy="81"
+       fx="27"
+       fy="81"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1504">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1498" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1500" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1502" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1143"
+       cx="621"
+       cy="81"
+       fx="621"
+       fy="81"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1513">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1507" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1509" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1511" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1145"
+       cx="27"
+       cy="135"
+       fx="27"
+       fy="135"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1522">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1516" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1518" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1520" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1147"
+       cx="621"
+       cy="135"
+       fx="621"
+       fy="135"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1531">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1525" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1527" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1529" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1149-1"
+       cx="27"
+       cy="189"
+       fx="27"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1540">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1534" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1536" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1538" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1151"
+       cx="81"
+       cy="189"
+       fx="81"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1549">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1543" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1545" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1547" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1153"
+       cx="135"
+       cy="189"
+       fx="135"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1558">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1552" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1554" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1556" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1155"
+       cx="189"
+       cy="189"
+       fx="189"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1567">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1561" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1563" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1565" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1157"
+       cx="243"
+       cy="189"
+       fx="243"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1576">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1570" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1572" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1574" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1159-5"
+       gradientTransform="scale(1.532971,0.65232807)"
+       cx="211.35429"
+       cy="289.73151"
+       fx="211.35429"
+       fy="289.73151"
+       r="30.659418"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1585">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1579" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1581" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1583" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1161-9"
+       cx="405"
+       cy="189"
+       fx="405"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1594">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1588" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1590" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1592" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1163"
+       cx="459"
+       cy="189"
+       fx="459"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1603">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1597" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1599" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1601" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1165"
+       cx="513"
+       cy="189"
+       fx="513"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1612">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1606" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1608" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1610" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1167"
+       cx="567"
+       cy="189"
+       fx="567"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1621">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1615" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1617" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1619" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1169-8"
+       cx="621"
+       cy="189"
+       fx="621"
+       fy="189"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1630">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1624" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1626" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1628" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1171"
+       cx="27"
+       cy="243"
+       fx="27"
+       fy="243"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1639">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1633" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1635" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1637" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1173"
+       cx="81"
+       cy="243"
+       fx="81"
+       fy="243"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1648">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1642" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1644" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1646" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1175"
+       cx="135"
+       cy="243"
+       fx="135"
+       fy="243"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1657">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1651" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1653" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1655" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1177"
+       cx="189"
+       cy="243"
+       fx="189"
+       fy="243"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1666">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1660" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1662" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1664" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1179"
+       gradientTransform="scale(1.532971,0.65232807)"
+       cx="35.225716"
+       cy="455.29239"
+       fx="35.225716"
+       fy="455.29239"
+       r="30.659418"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1675">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1669" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1671" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1673" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1181"
+       cx="135"
+       cy="297"
+       fx="135"
+       fy="297"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1684">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1678" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1680" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1682" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#DSA-63"
+       id="radialGradient1183"
+       cx="189"
+       cy="297"
+       fx="189"
+       fy="297"
+       r="20"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       id="radialGradient1693">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1687" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop1689" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1691" />
+    </radialGradient>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     x="157.63936"
+     y="329.14484"
+     id="text1570"><tspan
+       sodipodi:role="line"
+       id="tspan1568"
+       x="157.63936"
+       y="345.17816" /></text>
+  <text
+     id="text2113"
+     y="329.14484"
+     x="157.63936"
+     style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       y="345.17816"
+       x="157.63936"
+       id="tspan2111"
+       sodipodi:role="line" /></text>
+  <g
+     id="g46"
+     transform="translate(489.46824,492.70205)">
+    <g
+       id="g44-1"
+       class="  keycap">
+      <!-- Outer Border -->
+      <!-- Outer Fill -->
+      <!-- Inner Border -->
+      <!-- Inner Fill -->
+    </g>
+  </g>
+  <g
+     id="g1588"
+     transform="translate(0,-83.461975)">
+    <rect
+       style="fill:#eeeeee;stroke:#050505;stroke-width:1.88161469;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.83333333;paint-order:stroke fill markers"
+       y="83.942062"
+       x="0.94080734"
+       id="rect857"
+       rx="3.666014"
+       height="531.5791"
+       width="748.47784" />
+    <text
+       id="text2444"
+       y="162.0688"
+       x="373.65906"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9cd3f;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan2474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';text-align:center;letter-spacing:3px;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="162.0688"
+         x="375.15906"
+         sodipodi:role="line"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:3px;fill:#f9cd3f;fill-opacity:1"
+           id="tspan2476">Jane</tspan></tspan><tspan
+         id="tspan2478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';text-align:center;letter-spacing:3px;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="205.93547"
+         x="375.15906"
+         sodipodi:role="line">(ortho)</tspan><tspan
+         id="tspan2466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:3px;fill:#f9cd3f;fill-opacity:1"
+         y="245.93547"
+         x="373.65906"
+         sodipodi:role="line" /></text>
+    <g
+       class="  keycap"
+       id="g44"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="1"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect34"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="1"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect36"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect38"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect40"
+         style="fill:#5fc7dd" />
+      <rect
+         x="7"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect42"
+         style="fill:url(#radialGradient1137)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g56"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="595"
+         y="1"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect46"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="595"
+         y="1"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect48"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="601"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect50"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="601"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect52"
+         style="fill:#5fc7dd" />
+      <rect
+         x="601"
+         y="7"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect54"
+         style="fill:url(#radialGradient1139)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g68"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="55"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect58"
+         style="fill:#c0472c;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="55"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect60"
+         style="fill:#c0472c" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect62"
+         style="fill:#de6143;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect64"
+         style="fill:#de6143" />
+      <rect
+         x="7"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect66"
+         style="fill:url(#radialGradient1141)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g80"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="595"
+         y="55"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect70"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="595"
+         y="55"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect72"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="601"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect74"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="601"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect76"
+         style="fill:#5fc7dd" />
+      <rect
+         x="601"
+         y="61"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect78"
+         style="fill:url(#radialGradient1143)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g92"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="109"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect82"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="109"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect84"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect86"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect88"
+         style="fill:#5fc7dd" />
+      <rect
+         x="7"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect90"
+         style="fill:url(#radialGradient1145)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g104"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="595"
+         y="109"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect94"
+         style="fill:#e8a900;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="595"
+         y="109"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect96"
+         style="fill:#e8a900" />
+      <!-- Inner Border -->
+      <rect
+         x="601"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect98"
+         style="fill:#ffd241;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="601"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect100"
+         style="fill:#ffd241" />
+      <rect
+         x="601"
+         y="115"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect102"
+         style="fill:url(#radialGradient1147)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g116"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect106"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect108"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect110"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect112"
+         style="fill:#5fc7dd" />
+      <rect
+         x="7"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect114"
+         style="fill:url(#radialGradient1149-1)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g128"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="55"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect118"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="55"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect120"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="61"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect122"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="61"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect124"
+         style="fill:#5fc7dd" />
+      <rect
+         x="61"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect126"
+         style="fill:url(#radialGradient1151)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g140"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="109"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect130"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="109"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect132"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="115"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect134"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="115"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect136"
+         style="fill:#5fc7dd" />
+      <rect
+         x="115"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect138"
+         style="fill:url(#radialGradient1153)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g152"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="163"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect142"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="163"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect144"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="169"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect146"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="169"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect148"
+         style="fill:#5fc7dd" />
+      <rect
+         x="169"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect150"
+         style="fill:url(#radialGradient1155)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g164"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="217"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect154"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="217"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect156"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="223"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect158"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="223"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect160"
+         style="fill:#5fc7dd" />
+      <rect
+         x="223"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect162"
+         style="fill:url(#radialGradient1157)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g176"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="271"
+         y="163"
+         width="106"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect166"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="271"
+         y="163"
+         width="106"
+         height="52"
+         rx="5"
+         id="rect168"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="277"
+         y="169"
+         width="94"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect170"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="277"
+         y="169"
+         width="94"
+         height="40"
+         rx="5"
+         id="rect172"
+         style="fill:#5fc7dd" />
+      <rect
+         x="277"
+         y="169"
+         width="94"
+         height="40"
+         rx="5"
+         id="rect174"
+         style="fill:url(#radialGradient1159-5)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g188"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="379"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect178"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="379"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect180"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="385"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect182"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="385"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect184"
+         style="fill:#5fc7dd" />
+      <rect
+         x="385"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect186"
+         style="fill:url(#radialGradient1161-9)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g200"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="433"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect190"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="433"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect192"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="439"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect194"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="439"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect196"
+         style="fill:#5fc7dd" />
+      <rect
+         x="439"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect198"
+         style="fill:url(#radialGradient1163)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g212"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="487"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect202"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="487"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect204"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="493"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect206"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="493"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect208"
+         style="fill:#5fc7dd" />
+      <rect
+         x="493"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect210"
+         style="fill:url(#radialGradient1165)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g224"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="541"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect214"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="541"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect216"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="547"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect218"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="547"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect220"
+         style="fill:#5fc7dd" />
+      <rect
+         x="547"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect222"
+         style="fill:url(#radialGradient1167)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g236"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="595"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect226"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="595"
+         y="163"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect228"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="601"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect230"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="601"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect232"
+         style="fill:#5fc7dd" />
+      <rect
+         x="601"
+         y="169"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect234"
+         style="fill:url(#radialGradient1169-8)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g248"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect238"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect240"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect242"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect244"
+         style="fill:#5fc7dd" />
+      <rect
+         x="7"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect246"
+         style="fill:url(#radialGradient1171)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g260"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="55"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect250"
+         style="fill:#c0472c;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="55"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect252"
+         style="fill:#c0472c" />
+      <!-- Inner Border -->
+      <rect
+         x="61"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect254"
+         style="fill:#de6143;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="61"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect256"
+         style="fill:#de6143" />
+      <rect
+         x="61"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect258"
+         style="fill:url(#radialGradient1173)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g272"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="109"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect262"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="109"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect264"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="115"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect266"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="115"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect268"
+         style="fill:#5fc7dd" />
+      <rect
+         x="115"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect270"
+         style="fill:url(#radialGradient1175)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g284"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="163"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect274"
+         style="fill:#34a4b9;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="163"
+         y="217"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect276"
+         style="fill:#34a4b9" />
+      <!-- Inner Border -->
+      <rect
+         x="169"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect278"
+         style="fill:#5fc7dd;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="169"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect280"
+         style="fill:#5fc7dd" />
+      <rect
+         x="169"
+         y="223"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect282"
+         style="fill:url(#radialGradient1177)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g296"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="1"
+         y="271"
+         width="106"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect286"
+         style="fill:#d9dae0;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="1"
+         y="271"
+         width="106"
+         height="52"
+         rx="5"
+         id="rect288"
+         style="fill:#d9dae0" />
+      <!-- Inner Border -->
+      <rect
+         x="7"
+         y="277"
+         width="94"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect290"
+         style="fill:#fdfeff;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="7"
+         y="277"
+         width="94"
+         height="40"
+         rx="5"
+         id="rect292"
+         style="fill:#fdfeff" />
+      <rect
+         x="7"
+         y="277"
+         width="94"
+         height="40"
+         rx="5"
+         id="rect294"
+         style="fill:url(#radialGradient1179)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g308"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="109"
+         y="271"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect298"
+         style="fill:#e8a900;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="109"
+         y="271"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect300"
+         style="fill:#e8a900" />
+      <!-- Inner Border -->
+      <rect
+         x="115"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect302"
+         style="fill:#ffd241;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="115"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect304"
+         style="fill:#ffd241" />
+      <rect
+         x="115"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect306"
+         style="fill:url(#radialGradient1181)" />
+    </g>
+    <g
+       class="  keycap"
+       id="g320"
+       transform="translate(52.775984,254.26246)">
+      <!-- Outer Border -->
+      <rect
+         x="163"
+         y="271"
+         width="52"
+         height="52"
+         rx="5"
+         class="outer border"
+         id="rect310"
+         style="fill:#c0472c;stroke:#000000;stroke-width:1" />
+      <!-- Outer Fill -->
+      <rect
+         x="163"
+         y="271"
+         width="52"
+         height="52"
+         rx="5"
+         id="rect312"
+         style="fill:#c0472c" />
+      <!-- Inner Border -->
+      <rect
+         x="169"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         class="inner border"
+         id="rect314"
+         style="fill:#de6143;stroke-width:2" />
+      <!-- Inner Fill -->
+      <rect
+         x="169"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect316"
+         style="fill:#de6143" />
+      <rect
+         x="169"
+         y="277"
+         width="40"
+         height="40"
+         rx="5"
+         id="rect318"
+         style="fill:url(#radialGradient1183)" />
+    </g>
+    <text
+       id="text2217-3"
+       y="339.78647"
+       x="79.639664"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="339.78647"
+         x="80.139664"
+         id="tspan2215-7"
+         sodipodi:role="line">ESC</tspan></text>
+    <text
+       id="text2217"
+       y="285.93646"
+       x="80.006691"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="285.93646"
+         x="80.506691"
+         id="tspan2215"
+         sodipodi:role="line">TAB</tspan></text>
+    <text
+       id="text2225"
+       y="393.78647"
+       x="79.549294"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="393.78647"
+         x="80.049294"
+         id="tspan2223"
+         sodipodi:role="line">SHIFT</tspan></text>
+    <text
+       id="text2229"
+       y="447.78647"
+       x="133.591"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="447.78647"
+         x="134.091"
+         id="tspan2227"
+         sodipodi:role="line">CTRL</tspan></text>
+    <text
+       id="text2229-5"
+       y="447.78647"
+       x="187.72366"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="447.78647"
+         x="188.22366"
+         id="tspan2227-6"
+         sodipodi:role="line">SUPER</tspan></text>
+    <text
+       id="text2229-5-4"
+       y="447.93646"
+       x="241.78314"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="447.93646"
+         x="242.28314"
+         id="tspan2227-6-6"
+         sodipodi:role="line">ALT</tspan></text>
+    <text
+       id="text2229-5-4-4"
+       y="447.93646"
+       x="295.78317"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="447.93646"
+         x="295.78317"
+         id="tspan2227-6-6-8"
+         sodipodi:role="line">LOWER</tspan></text>
+    <text
+       id="text2229-5-4-4-1"
+       y="447.86447"
+       x="457.4957"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:12px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="447.86447"
+         x="457.9957"
+         id="tspan2227-6-6-8-0"
+         sodipodi:role="line">RAISE</tspan></text>
+    <text
+       id="text2229-1-8"
+       y="448.28912"
+       x="511.27081"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:1px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="448.28912"
+         x="511.77081"
+         id="tspan2227-2-4"
+         sodipodi:role="line">LEFT</tspan></text>
+    <text
+       id="text2229-1-8-5"
+       y="448.18912"
+       x="565.78101"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="448.18912"
+         x="565.78101"
+         id="tspan2227-2-4-0"
+         sodipodi:role="line">DN</tspan></text>
+    <text
+       id="text2229-1-8-5-3"
+       y="448.28912"
+       x="673.27081"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="448.28912"
+         x="673.52081"
+         id="tspan2227-2-4-0-6"
+         sodipodi:role="line">RIGHT</tspan></text>
+    <text
+       id="text2229-1-8-5-3-1"
+       y="448.22247"
+       x="619.46704"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="448.22247"
+         x="619.46704"
+         id="tspan2227-2-4-0-6-0"
+         sodipodi:role="line">UP</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3"
+       y="394.28912"
+       x="673.27081"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="394.28912"
+         x="673.52081"
+         id="tspan2227-2-4-0-6-04"
+         sodipodi:role="line">ENTER</tspan></text>
+    <text
+       id="text2235-3-2"
+       y="333.71579"
+       x="673.77161"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan2231-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="333.71579"
+         x="673.77161"
+         sodipodi:role="line">&quot;</tspan><tspan
+         id="tspan2233-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.5;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="353.71579"
+         x="673.77161"
+         sodipodi:role="line">'</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3-47"
+       y="502.18912"
+       x="133.46451"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="502.18912"
+         x="133.71451"
+         id="tspan2227-2-4-0-6-04-6"
+         sodipodi:role="line">ENTER</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3-4-3-5"
+       y="556.38916"
+       x="241.19839"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="556.38916"
+         x="241.19839"
+         sodipodi:role="line"
+         id="tspan2719-7-6">BACK</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3-2"
+       y="502.18912"
+       x="79.464523"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="502.18912"
+         x="79.714523"
+         id="tspan2227-2-4-0-6-04-1"
+         sodipodi:role="line">ENTER</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3-4-3-5-3"
+       y="556.38916"
+       x="187.19839"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="556.38916"
+         x="187.19839"
+         sodipodi:role="line"
+         id="tspan2719-7-6-6">BACK</tspan></text>
+    <text
+       id="text2229-1-8-5-3-3-4-3-5-7"
+       y="286.38913"
+       x="673.19836"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:13.33333302px;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Light';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="286.38913"
+         x="673.19836"
+         sodipodi:role="line"
+         id="tspan2719-7-6-5">BACK</tspan></text>
+  </g>
+</svg>
